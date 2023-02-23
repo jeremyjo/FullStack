@@ -175,3 +175,16 @@ console.log(step > 20 && step != 22)
 let step = 22
 console.log(step == 21 || step < 22 );
 */
+
+// let tech = window.prompt("Which front-end technology do you enjoy most?");
+// switch (tech) {
+// case "html":
+//      window.alert("HTML is fun and easy to learn!");
+//      break;
+// case "css":
+//      window.alert("CSS is more difficult to pick up than HTML!");
+//      break;
+// default:
+//      window.alert("Great, I like that technology too!");
+// }
+
