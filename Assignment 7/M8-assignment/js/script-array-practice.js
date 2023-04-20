@@ -226,18 +226,38 @@
 
 //STEP 15
 
-let testData = [58, '', 'abcd', true, null, false, 0];
-function filtervalues(data) {
-    let cleanData = data.filter(
-        (item) => {
-            return typeof item != 'false'
-        }
-    );
-}
+// let testData = [58, '', 'abcd', true, null, false, 0];
 
-let test = filtervalues(testData);
-console.log(test);
+// function filtervalues(data) {
+//     let cleanData = data.filter( (item) => {
+//             return item != false && item != null;
+//         }
+//     );
+//     return cleanData;
+// }
+
+// let test = filtervalues(testData);
+// console.log(test);
 
 //STEP 16
 
+// function getRandomItem (passedArray) {
+//     arrayLength = passedArray.length-1;
+//     randomNumber =  Math.round( (Math.random()*arrayLength) );
+//     randomArrayValue = passedArray[randomNumber];
+//     return randomArrayValue;
+// }
+
+// sampleArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+// console.log(getRandomItem(sampleArray))
+
 //STEP 17
+
+function getLargestItem (passedArray) {
+    let maxItem = Math.max(...passedArray);
+    console.log(maxItem);
+}
+
+sampleArray = [1, 2, 200, 4, 5, 6, 7, 8, 9, 100]
+getLargestItem(sampleArray);
