@@ -98,11 +98,11 @@ alert("Hello " + "Jeremy Joseph, welcome to the JavaScript class!");
 */
 
 // STEP 12
-// /*
+/*
 let name = 'Jeremy';
 let step12 = "Hello " + name + " welcome to the JavaScript class!"
 alert(step12);
-// */
+*/
 
 // STEP 13
 /*
