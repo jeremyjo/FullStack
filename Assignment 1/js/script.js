@@ -98,11 +98,11 @@ alert("Hello " + "Jeremy Joseph, welcome to the JavaScript class!");
 */
 
 // STEP 12
-/*
-let names = 'Jeremy';
-let step12 = "Hello " + names + " welcome to the JavaScript class!"
+// /*
+let name = 'Jeremy';
+let step12 = "Hello " + name + " welcome to the JavaScript class!"
 alert(step12);
-*/
+// */
 
 // STEP 13
 /*
@@ -162,7 +162,7 @@ console.log(x);
 let x = 20%3;
 x/=1;
 console.log(x);
-*/
+// */
 
 // STEP 21
 /*
