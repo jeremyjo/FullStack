@@ -1,3 +1,4 @@
+// Part 3
 // The “Coin Flip” Game
 
 let coinFlip = Math.round(Math.random()*10);

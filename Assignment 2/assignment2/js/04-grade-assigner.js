@@ -1,3 +1,4 @@
+// part 4
 let userChoice = parseInt(prompt("Enter a number between 1 and 100"));
 if(userChoice < 1 || userChoice > 100) {
     document.write("Only numbers between 1 and 100 are accepted");

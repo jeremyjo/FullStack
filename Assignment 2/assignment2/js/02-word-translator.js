@@ -1,3 +1,4 @@
+// Part 2
 // The Word Translator
 let userLanguage = (prompt("Enter a language code: es, de, en, or fr"));
 switch(userLanguage.toLowerCase()) {

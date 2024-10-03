@@ -1,3 +1,4 @@
+// Part 1
 // Larger or Smaller?
 
 let firstNumber = parseInt(prompt("enter one integer"));
