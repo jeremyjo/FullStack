@@ -9,5 +9,4 @@ for(let i = 0; i < iterations; i++) {
     } else {
         console.log(`%c Tails`, `color: pink;`)
     }
-
 }
