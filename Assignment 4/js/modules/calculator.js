@@ -1,5 +1,4 @@
 // ADD A PRIVATE FUNCTION CALLED CALCULATE
-
 function calculate (parameterString) {
     switch (parameterString) {
         case "+":

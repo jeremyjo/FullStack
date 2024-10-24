@@ -22,17 +22,17 @@ let userOperationString = cacalculate(userOperationInput);
 
 userOperationString(userFirstNumber, userSecondNumber);
 
-// switch (userOperationInput) {
-//     case "+":
-//         calc.add(userFirstNumber, userSecondNumber);
-//         break;
-//     case "-":
-//         calc.subtract(userFirstNumber, userSecondNumber);
-//         break;
-//     case "*":
-//         calc.multiply(userFirstNumber, userSecondNumber);
-//         break;
-//     case "/":
-//         calc.divide(userFirstNumber, userSecondNumber);
-//         break;
-// }
+switch (userOperationInput) {
+    case "+":
+        calc.add(userFirstNumber, userSecondNumber);
+        break;
+    case "-":
+        calc.subtract(userFirstNumber, userSecondNumber);
+        break;
+    case "*":
+        calc.multiply(userFirstNumber, userSecondNumber);
+        break;
+    case "/":
+        calc.divide(userFirstNumber, userSecondNumber);
+        break;
+}

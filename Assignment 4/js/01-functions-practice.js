@@ -1,5 +1,4 @@
 //STEP 1
-
 function halfNumber(numberParameter) {
     let halfLocalVariable = numberParameter/2;
     console.log(`Half of ${numberParameter} is ${halfLocalVariable}`);
