@@ -1,4 +1,4 @@
-// rock paper scissors app
+// rock paper scissors game
 let userInput = fnGetUserChoice();
 let computerInput = fnGetComputerChoice();
 
