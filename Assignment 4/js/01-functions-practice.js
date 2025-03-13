@@ -1,3 +1,4 @@
+// Practice with Functions
 //STEP 1
 function halfNumber(numberParameter) {
     let halfLocalVariable = numberParameter/2;
