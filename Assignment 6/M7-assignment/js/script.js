@@ -1,3 +1,5 @@
+// Create Add Employee functionality
+
 // GET ADD EMPLOYEE FORM AND EMPLOYEE TABLE FROM THE DOM
 let form = document.getElementById("addForm");
 form[0].focus();
